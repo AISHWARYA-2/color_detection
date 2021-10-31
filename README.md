@@ -3,5 +3,5 @@ A color detection algorithm identifies pixels in an image that match a specified
 
 
 Name : Aishwarya. G
-ID No. : 20191CSE0012
-SEC : 5CSE01
+    ID No. : 20191CSE0012
+    SEC : 5CSE01
